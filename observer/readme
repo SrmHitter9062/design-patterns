@@ -1,0 +1,6 @@
+Run observer file
+
+$ node observer.js
+> new job or updation in jobs triggered from db
+> emitting(subscribing) event on job list change  [ 'job1', 'job2', 'job3' ]
+> observered new job list changes [ 'job1', 'job2', 'job3' ]
