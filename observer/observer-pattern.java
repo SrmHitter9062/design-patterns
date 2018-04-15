@@ -1,3 +1,6 @@
+//source : http://javarevisited.blogspot.in/2011/12/observer-design-pattern-java-example.html#ixzz5CkIgeq13
+
+
 import java.util.ArrayList;
 
 interface Observer {
